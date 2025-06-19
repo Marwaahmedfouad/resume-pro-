@@ -35,6 +35,7 @@ import 'react-circular-progressbar/dist/styles.css';
 function Skills() {
     return (
         <>
+        
             {skills.map(({ title, percentage }, index) => {
                 return (
                     <div className="progress__box" key={index}>
