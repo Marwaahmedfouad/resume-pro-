@@ -87,11 +87,11 @@
     margin-bottom: 50px;
 }
 
-.skills__container {
-    grid-template-columns: repeat(4, 1fr);
+/* .skills__container {
+    grid-template-columns: repeat(5, 2fr);
     row-gap: 48px;
-    justify-content: center;
-}
+    justify-content: center ;
+} */
 
 .progress__circle {
     width: 120px;

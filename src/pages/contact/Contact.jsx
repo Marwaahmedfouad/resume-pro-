@@ -86,7 +86,7 @@ function Contact() {
                 <FaEnvelopeOpen className="info_icon" />
                 <div>
                   <span className="info__title">Mail Me </span>
-                  <h4 className="info__desc">mostafageo2009@gmail.com</h4>
+                  <h4 className="info__desc">mohamedhammaddeveloper@gmail.com</h4>
                 </div>
               </div>
 
@@ -94,7 +94,7 @@ function Contact() {
                 <FaPhoneSquareAlt className="info_icon" />
                 <div>
                   <span className="info__title">Call Me </span>
-                  <h4 className="info__desc">01004923915 01112898373</h4>
+                  <h4 className="info__desc">01009812748</h4>
                 </div>
               </div>
             </div>
@@ -102,26 +102,26 @@ function Contact() {
             {/* part2 */}
             <div className="social-media" style={{ paddingTop: "15px" }}>
               <div className="bg-icon">
-                <a href="https://www.linkedin.com/in/mostafa-essam-9ab16a125">
+                <a href="https://www.linkedin.com/in/mohammed-hammad-755805151/">
                   <FaLinkedinIn />
                 </a>
                 <span></span>
               </div>
               <div className="bg-icon">
-                <a href="https://mostafageo2009.github">
+                <a href="https://github.com/MohamedHammadDeveloper">
                   <FaGithub />
                 </a>
                 <span></span>
               </div>
               <div className="bg-icon">
-                <a href="https://www.youtube.com/user/sasapopsasa/videos">
+                <a href="https://www.youtube.com/@HorusTechnicalSolutions">
                   {/* <FaTwitter /> */}
                   <FaYoutube />
                 </a>
                 <span></span>
               </div>
               <div className="bg-icon">
-                <a href="https://www.facebook.com/mostafa.geoman">
+                <a href="https://www.facebook.com/mohamed.hammad.838551">
                   <FaFacebookF />
                 </a>
                 <span></span>
