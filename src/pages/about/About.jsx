@@ -22,7 +22,7 @@ function About() {
 
 
           {/* part2 */}
-          <div className="about__container grid ">
+          {/* <div className="about__container grid "> */}
             <div className="about__info">
 
               <h3 className="section__subtitle">
@@ -45,9 +45,9 @@ function About() {
             </div>
 
 
-            <div >
+            {/* <div >
                     <img src={img} alt='' className='stats__item' width='100%' style={{borderRadius:'10px'}}></img>
-            </div>
+            </div> */}
 
 
 
@@ -56,7 +56,7 @@ function About() {
             {/* <div className="stats grid">
               <Stats className="stats__item" />
             </div> */}
-          </div>
+          {/* </div> */}
 
 
         </section>

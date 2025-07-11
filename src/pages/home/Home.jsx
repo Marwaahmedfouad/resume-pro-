@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import profile from "../../assets/img3.jpg";
+// import profile from "../../assets/161944044.jpg";
+import profile from "../../assets/161944044-removebg-preview.png";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import {
@@ -16,8 +17,7 @@ import { FiSend } from "react-icons/fi";
 import "./home.css";
 function Home() {
   const [showFullDescription, setShowFullDescription] = useState(false);
-  const description = `an expert in gis/rs for more than 14 years of working in gis, remote sensing industry.
-  excellent reputation for resolving problems, managing projects, and improving customer satisfaction.`;
+  const description = `Innovative Senior .Net Developer and Code Reviewer with extensive expertise in WPF and DevExpress technologies. A passionate architect of elegant, scalable solutions using cutting-edge .NET technologies including MAUI. Committed to code excellence and best practices, with a proven track record of delivering high-impact enterprise applications that drive business success.`;
 
   function toggleDescription() {
     setShowFullDescription(!showFullDescription);
@@ -25,7 +25,7 @@ function Home() {
 
   const truncatedDescription = showFullDescription
     ? description
-    : `${description.slice(0, 88)}...`;
+    : `${description.slice(0, 87)}...`;
   return (
     <>
       {/* home in home.css section and grid in app.css style*/}
@@ -34,12 +34,13 @@ function Home() {
         <div className="home__content">
           <div className="home__data">
             <h1 className="home__title">
-              <span>I'm Mostafa Essam . </span>
+              <span>I'm Mohamed Hammad . </span>
               <div className="home__title2">
-                <p>- Geospatial Solution Architect </p>
-                <p>- GIS Project Manager </p>
-                <p>- Database Administrator</p>
-                <p>- GIS/RS Training consultant </p>
+                <p>- Senior .Net Developer </p>
+                <p>- Code Reviewer </p>
+                <p>- WPF</p>
+                <p>- DevExpress </p>
+                <p>- Maui </p>
               </div>
             </h1>
 
