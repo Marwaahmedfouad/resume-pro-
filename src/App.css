@@ -90,8 +90,8 @@
 }
 .home__img {
   height: 42% !important;
-  /* width: 30vw; */
-  width: 74% !important;
+  width: 100vw;
+  /* width: 74% !important; */
   object-fit: cover;
 }
 .social-media {

@@ -152,7 +152,7 @@
     width: 300px;
     height: 360px;
     /* margin-top: auto; */
-    background-color: red;
+    /* background-color: red; */
   }
   /* .skills__container {
     background-color: red;
@@ -305,7 +305,7 @@
 @media screen and (max-width: 450px) {
   .home__img {
     display: none;
-    background-color: red;
+    /* background-color: red; */
   }
   /* .home__content{
       background-color: red;

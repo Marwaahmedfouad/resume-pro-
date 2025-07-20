@@ -201,7 +201,47 @@ export const skills = [
     title: "C#",
     percentage: "100",
   },
+  {
+    id: 17,
+    title: "(Entity Framework , Linq To SQL)",
+    percentage: "95",
+  },
+   {
+    id: 16,
+    title: "Debuging ",
+    percentage: "95",
+  },
+  {
+    id: 13,
+    title: `(MVC, Repository, MVVM,\nMVP, OOP) Patterns`,
+    percentage: "90",
+  },
 
+  {
+    id: 10,
+    title: "WinForms",
+    percentage: "90",
+  },
+    {
+    id: 14,
+    title: "Clean Code",
+    percentage: "90",
+  },
+   {
+    id: 19,
+    title: "Solid Principle",
+    percentage: "90",
+  },
+{
+    id: 21,
+    title: "Problem Solving",
+    percentage: "85",
+  },
+   {
+    id: 12,
+    title: "Rest Api",
+    percentage: "85",
+  },
   {
     id: 2,
     title: "SQL Server",
@@ -219,59 +259,24 @@ export const skills = [
     title: "WPF",
     percentage: "80",
   },
+  
   {
-    id: 21,
-    title: "Problem Solving",
-    percentage: "85",
-  },
-  {
-    id: 17,
-    title: "(Entity Framework , Linq To SQL)",
-    percentage: "95",
-  },
-  {
-    id: 13,
-    title: `(MVC, Repository, MVVM,\nMVP, OOP) Patterns`,
-    percentage: "90",
-  },
 
-  {
-    id: 10,
-    title: "WinForms",
-    percentage: "90",
-  },
-  {
     id: 11,
     title: "DevExpress",
     percentage: "80",
   },
-  {
-    id: 12,
-    title: "Rest Api",
-    percentage: "85",
-  },
-  {
-    id: 14,
-    title: "Clean Code",
-    percentage: "90",
-  },
+ 
 
-  {
-    id: 16,
-    title: "Debuging ",
-    percentage: "95",
-  },
+
+ 
 
   {
     id: 18,
     title: " Code Testing",
     percentage: "80",
   },
-  {
-    id: 19,
-    title: "Solid Principle",
-    percentage: "90",
-  },
+ 
   {
     id: 20,
     title: "Tailwind Framework",
@@ -287,20 +292,14 @@ export const skills = [
     title: "Xamarin",
     percentage: "60",
   },
-
-  {
-    id: 3,
-    title: "Javascript",
-    percentage: "40",
-  },
-  {
-    id: 6,
-    title: "CSS",
-    percentage: "50",
-  },
-  {
+    {
     id: 9,
     title: "blazor",
+    percentage: "60",
+  },
+   {
+    id: 3,
+    title: "Javascript",
     percentage: "60",
   },
   {
@@ -308,6 +307,14 @@ export const skills = [
     title: "Html",
     percentage: "60",
   },
+ {
+    id: 6,
+    title: "CSS",
+    percentage: "50",
+  },
+ 
+ 
+
 ];
 
 export const portfolio = [
